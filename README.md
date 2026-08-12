@@ -1,7 +1,7 @@
 # Obesity Level Classification — ML Assignment 2
 
 **Course:** Machine Learning · M.Tech (AIML/DSE) · BITS Pilani WILP
-**Live app:** `<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>`
+**Live app:** `https://obesity-classifier-cm8hfzimgrwwtjdvdqvdud.streamlit.app/`
 **GitHub repo:** `<PASTE YOUR GITHUB REPO LINK HERE>`
 
 ---
