@@ -1,7 +1,6 @@
 """
 Streamlit app: Obesity Level Classification Demo
-Assignment 2 - Machine Learning (M.Tech AIML/DSE, BITS Pilani WILP)
-
+Assignment 2 - Machine Learning 
 Features:
   a. CSV upload of test data
   b. Model selection dropdown
@@ -66,7 +65,7 @@ def transform_features(df, preproc):
 def main():
     st.title("🍎 Obesity Level Classification")
     st.caption(
-        "Assignment 2 · Machine Learning · M.Tech (AIML/DSE) · BITS Pilani WILP"
+        "Assignment 2 · Machine Learning · M.Tech (AIML) · BITS Pilani WILP"
     )
     st.markdown(
         "Predicts obesity level (7 classes) from eating habits and physical "
