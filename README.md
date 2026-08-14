@@ -1,8 +1,8 @@
 # Obesity Level Classification — ML Assignment 2
 
-**Course:** Machine Learning · M.Tech (AIML/DSE) · BITS Pilani WILP
+**Course:** Machine Learning · M.Tech (AIML) · BITS Pilani WILP
 **Live app:** `https://obesity-classifier-cm8hfzimgrwwtjdvdqvdud.streamlit.app/`
-**GitHub repo:** `<PASTE YOUR GITHUB REPO LINK HERE>`
+**GitHub repo:** `https://github.com/Sukirthalakshmanan1/obesity-classifier`
 
 ---
 
@@ -40,7 +40,7 @@ explored without writing any code.
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO LINK HERE>`
+`https://github.com/Sukirthalakshmanan1/obesity-classifier`
 
 Repository contains: complete source code, `requirements.txt`, this
 `README.md`, `test_data.csv`, and all trained model files under `model/`.
