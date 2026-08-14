@@ -2,7 +2,7 @@
 
 **Course:** Machine Learning · M.Tech (AIML) · BITS Pilani WILP
 **Live app:** https://obesity-classifier-cm8hfzimgrwwtjdvdqvdud.streamlit.app/
-**GitHub repo:** `https://github.com/Sukirthalakshmanan1/obesity-classifier`
+**GitHub repo:** https://github.com/Sukirthalakshmanan1/obesity-classifier
 
 ---
 
@@ -40,7 +40,7 @@ explored without writing any code.
 
 ## c. GitHub Repository Link
 
-`https://github.com/Sukirthalakshmanan1/obesity-classifier`
+https://github.com/Sukirthalakshmanan1/obesity-classifier
 
 Repository contains: complete source code, `requirements.txt`, this
 `README.md`, `test_data.csv`, and all trained model files under `model/`.
